@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @nick-boto
 - 👀 I’m interested in game design and production
 - 🌱 I’m currently learning the Python programming language
-- 💞️ I’m looking to collaborate on my current project, ForestFight, a console text-based RPG - send me a message if you're interested
+- 💞️ I’m looking to collaborate on... wait, since when do people collaborate with noobs?
 - 📫 How to reach me: Email me at nick.boto2729@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: My name isn't actually Nick. Who would have guessed?
+- ⚡ Fun fact: I got my Operator Certification!
 
 <!---
 nick-boto/nick-boto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
